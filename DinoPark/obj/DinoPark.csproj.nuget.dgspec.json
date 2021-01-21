@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\DinoPark.csproj": {}
+    "C:\\Users\\lanor\\Desktop\\dinopark.solution\\dinopark\\DinoPark.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\DinoPark.csproj": {
+    "C:\\Users\\lanor\\Desktop\\dinopark.solution\\dinopark\\DinoPark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\DinoPark.csproj",
+        "projectUniqueName": "C:\\Users\\lanor\\Desktop\\dinopark.solution\\dinopark\\DinoPark.csproj",
         "projectName": "DinoPark",
-        "projectPath": "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\DinoPark.csproj",
+        "projectPath": "C:\\Users\\lanor\\Desktop\\dinopark.solution\\dinopark\\DinoPark.csproj",
         "packagesPath": "C:\\Users\\lanor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\obj\\",
+        "outputPath": "C:\\Users\\lanor\\Desktop\\dinopark.solution\\dinopark\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,11 +50,19 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
