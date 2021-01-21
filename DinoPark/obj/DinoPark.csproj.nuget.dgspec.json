@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\DinoPark\\DinoPark.csproj": {}
+    "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\DinoPark.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\DinoPark\\DinoPark.csproj": {
+    "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\DinoPark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\DinoPark\\DinoPark.csproj",
+        "projectUniqueName": "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\DinoPark.csproj",
         "projectName": "DinoPark",
-        "projectPath": "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\DinoPark\\DinoPark.csproj",
+        "projectPath": "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\DinoPark.csproj",
         "packagesPath": "C:\\Users\\lanor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\DinoPark\\obj\\",
+        "outputPath": "C:\\Users\\lanor\\Desktop\\Dinopark.Solution\\dinopark\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
